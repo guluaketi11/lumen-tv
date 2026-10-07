@@ -1,0 +1,45 @@
+@property --c1 {
+  syntax: '<color>';
+  inherits: true;
+  initial-value: #1b2440;
+}
+
+@property --c2 {
+  syntax: '<color>';
+  inherits: true;
+  initial-value: #0b0d12;
+}
+
+:root {
+  --bg: #07080c;
+  --text: #f4f1ea;
+  --muted: rgba(244, 241, 234, 0.62);
+  --accent: #f5c451;
+  --display: 'Sora', system-ui, sans-serif;
+  --body: 'Inter', system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  background: #000;
+  color: var(--text);
+  font-family: var(--body);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}

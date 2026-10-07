@@ -1,0 +1,180 @@
+{
+  "movies": [
+    {
+      "id": "sintel",
+      "title": "Sintel",
+      "year": 2010,
+      "genre": "Fantasy",
+      "duration": "15 min",
+      "description": "A lone young woman travels through a harsh, beautiful world in search of the baby dragon she once rescued and raised.",
+      "stream": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "colors": ["#7a2e1d", "#1d1410"]
+    },
+    {
+      "id": "big-buck-bunny",
+      "title": "Big Buck Bunny",
+      "year": 2008,
+      "genre": "Comedy",
+      "duration": "10 min",
+      "description": "A gentle giant of a rabbit has had enough of three small rodents who keep bullying the forest animals, and plans a comical revenge.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#4f8a2a", "#13210d"]
+    },
+    {
+      "id": "tears-of-steel",
+      "title": "Tears of Steel",
+      "year": 2012,
+      "genre": "Sci-Fi",
+      "duration": "12 min",
+      "description": "In a future Amsterdam, a group of scientists and warriors attempt a risky experiment to save the world from destructive robots.",
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "colors": ["#1f4f6e", "#0b1219"]
+    },
+    {
+      "id": "elephants-dream",
+      "title": "Elephants Dream",
+      "year": 2006,
+      "genre": "Sci-Fi",
+      "duration": "11 min",
+      "description": "Two men, Emo and Proog, wander through the endless rooms of a strange mechanical world that only one of them seems to understand.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#6b4a8c", "#140f1c"]
+    },
+    {
+      "id": "cosmos-laundromat",
+      "title": "Cosmos Laundromat",
+      "year": 2015,
+      "genre": "Fantasy",
+      "duration": "12 min",
+      "description": "On a desolate island, a disillusioned sheep named Franck meets a mysterious salesman who offers him the chance to live many different lives.",
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "colors": ["#c26d3a", "#1e130c"]
+    },
+    {
+      "id": "spring",
+      "title": "Spring",
+      "year": 2019,
+      "genre": "Fantasy",
+      "duration": "8 min",
+      "description": "A shepherd girl and her dog face ancient spirits in order to continue the cycle of life.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#3f8f8a", "#0c1a19"]
+    },
+    {
+      "id": "agent-327",
+      "title": "Agent 327",
+      "year": 2017,
+      "genre": "Action",
+      "duration": "4 min",
+      "description": "Operation Barbershop. Agent 327 goes undercover in a quiet barbershop that hides a far more dangerous secret.",
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "colors": ["#b08a2e", "#1a150a"]
+    },
+    {
+      "id": "sprite-fright",
+      "title": "Sprite Fright",
+      "year": 2021,
+      "genre": "Horror Comedy",
+      "duration": "10 min",
+      "description": "A group of teenagers on a trip into the forest meet the sprites who live there, and quickly learn they are not as cute as they look.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#8c2f5c", "#1a0b13"]
+    },
+    {
+      "id": "coffee-run",
+      "title": "Coffee Run",
+      "year": 2020,
+      "genre": "Drama",
+      "duration": "3 min",
+      "description": "Fuelled by caffeine, a young woman races through the bittersweet memories of a past relationship.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#8a5a3c", "#170f0a"]
+    },
+    {
+      "id": "charge",
+      "title": "Charge",
+      "year": 2022,
+      "genre": "Action",
+      "duration": "4 min",
+      "description": "A high-octane action short set in a dystopian future, made with Blender's real-time EEVEE renderer.",
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "colors": ["#2e3f8c", "#0b0e1c"]
+    },
+    {
+      "id": "hero",
+      "title": "Hero",
+      "year": 2018,
+      "genre": "Action",
+      "duration": "4 min",
+      "description": "A short action piece created to showcase Blender's Grease Pencil tools for 2D animation in a 3D space.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#a3332b", "#1c0b0a"]
+    },
+    {
+      "id": "llama-drama",
+      "title": "Caminandes: Llama Drama",
+      "year": 2013,
+      "genre": "Comedy",
+      "duration": "2 min",
+      "description": "Koro the llama is determined to cross a road in Patagonia, no matter what stands in his way.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#c9a24a", "#1d170b"]
+    },
+    {
+      "id": "gran-dillama",
+      "title": "Caminandes: Gran Dillama",
+      "year": 2013,
+      "genre": "Comedy",
+      "duration": "2 min",
+      "description": "The grass is always greener on the other side of the fence. Koro sets out to prove it, electric fence or not.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#6f9a3b", "#121a0b"]
+    },
+    {
+      "id": "llamigos",
+      "title": "Caminandes: Llamigos",
+      "year": 2016,
+      "genre": "Comedy",
+      "duration": "3 min",
+      "description": "Winter has come to Patagonia, and Koro meets Oti, a pesky penguin who is after the very same berries.",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "colors": ["#4a7ea6", "#0b141c"]
+    },
+    {
+      "id": "bipbop",
+      "title": "Apple BipBop fMP4",
+      "year": 2017,
+      "genre": "Test stream",
+      "duration": "30 min",
+      "description": "Apple's reference HLS stream with fragmented MP4 segments, multiple renditions and alternate audio. Used to verify adaptive bitrate switching.",
+      "stream": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "colors": ["#3a3f4a", "#0d0f12"]
+    },
+    {
+      "id": "akamai-live",
+      "title": "Akamai Live Test",
+      "year": 2024,
+      "genre": "Live",
+      "duration": "Live",
+      "description": "A continuous live HLS stream. The player detects live content, shows a LIVE badge and disables seeking.",
+      "stream": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+      "colors": ["#a3203a", "#1c070b"]
+    },
+    {
+      "id": "broken-stream",
+      "title": "Broken Stream",
+      "year": 2026,
+      "genre": "Error demo",
+      "duration": "No stream",
+      "description": "Points to a playlist that doesn't exist. Shows automatic reconnect with backoff, then a friendly error screen with Retry and Back.",
+      "stream": "https://test-streams.mux.dev/this-stream-does-not-exist/index.m3u8",
+      "colors": ["#4a4a4a", "#101010"]
+    }
+  ],
+  "rows": [
+    { "title": "Trending Now", "items": ["sintel", "tears-of-steel", "big-buck-bunny", "spring", "cosmos-laundromat", "sprite-fright", "agent-327", "charge"] },
+    { "title": "Animated Shorts", "items": ["big-buck-bunny", "llama-drama", "gran-dillama", "llamigos", "coffee-run", "hero", "spring", "sprite-fright"] },
+    { "title": "Sci-Fi & Fantasy", "items": ["tears-of-steel", "elephants-dream", "cosmos-laundromat", "sintel", "spring", "charge"] },
+    { "title": "Stream Test Lab", "items": ["bipbop", "akamai-live", "broken-stream", "big-buck-bunny", "tears-of-steel"] }
+  ]
+}
